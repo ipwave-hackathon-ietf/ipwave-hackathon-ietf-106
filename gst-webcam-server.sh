@@ -1,4 +1,6 @@
 #!/bin/bash
+# by Yiwen Shen (SKKU)
+# Email: chrisshen@skku.edu
 
 # gst-launch-1.0 udpsrc port=5000 ! application/x-rtp, clock-rate=90000,payload=96 ! rtph263pdepay queue-delay=0 ! ffdec_h263 ! xvimagesink
 

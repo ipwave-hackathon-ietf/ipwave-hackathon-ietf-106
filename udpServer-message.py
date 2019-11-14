@@ -1,4 +1,6 @@
 #!/usr/bin/python2
+# by Yiwen Shen (SKKU)
+# Email: chrisshen@skku.edu
 
 import socket
 

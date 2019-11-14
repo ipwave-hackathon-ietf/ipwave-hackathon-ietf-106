@@ -1,4 +1,6 @@
 #!/bin/bash
+# by Yiwen Shen (SKKU)
+# Email: chrisshen@skku.edu
 
 sudo iw reg set DE
 sudo ip link set wlp3s0 down
