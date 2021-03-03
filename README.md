@@ -12,4 +12,4 @@ https://github.com/CTU-IIG/802.11p-wireless-regdb
 
 https://github.com/CTU-IIG/802.11p-crda
 
-# Use the manual v0.3 for detailed explaination.
+# Use the manual v0.3 for detailed explanation.
